@@ -74,6 +74,7 @@ Please refer to "The tutorial for the modeling phase.py" and "The tutorial for t
 
 ## **For any questions please contact us**
 Zhu Lab, Institutes of Brain Science, Fudan University, Shanghai 200032, China<br>
+The homepage of our lab is here: https://zhuy-lab.fudan.edu.cn<br>
 E-mails:<br>
 ying_zhu@fudan.edu.cn<br>
 plli20@fudan.edu.cn<br>
