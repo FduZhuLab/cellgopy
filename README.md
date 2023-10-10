@@ -19,7 +19,6 @@ CellGO is a method designed to discover cell type-specific active pathways of a 
 **For interactive web-based CellGO analysis, please login: http://www.cellgo.world**
 
 ## **Installation and dependencies**
-
 ### **1) System requirements**
 #### **Requirements for software dependencies:**
 Python3 (tested versions: v3.6.13-v3.9.15)<br>
@@ -43,7 +42,6 @@ CPU: 2+ cores, 3.0+ GHz/core<br>
 (optional) GPU specifications are equal to or higher than NVIDIA Geforce GTX 1080<br>
 
 ### **2) Installation guide**
-
 CellGO has been implemented in Python3 and can be installed using git clone to download this git repository file:
 
 git clone https://github.com/FduZhuLab/cellgopy.git<br>
@@ -70,7 +68,13 @@ Maybe the simplest way to install CellGO is using the Conda package manager:
 conda install -c conda-forge cellgopy<br>
 
 ## **The tutorial for the python package cellgopy**
-
 Please refer to "The tutorial for the modeling phase.py" and "The tutorial for the analysis phase.py"
 
 **The related files involved in tutorials are available at: http://www.cellgo.world**
+
+## **For any questions please contact us**
+Zhu Lab, Institutes of Brain Science, Fudan University, Shanghai 200032, China<br>
+E-mails:<br>
+ying_zhu@fudan.edu.cn<br>
+plli20@fudan.edu.cn<br>
+weijunfeng789@163.com<br>
