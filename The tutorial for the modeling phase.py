@@ -1,3 +1,4 @@
+#The related files involved in tutorials are available at: http://www.cellgo.world
 from CellGO import Modeling
 import pandas as pd
 import numpy as np
