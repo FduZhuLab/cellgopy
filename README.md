@@ -15,8 +15,8 @@ CellGO is a method designed to discover cell type-specific active pathways of a 
 3.CellGO can construct the network of cell type-specific active pathways and report top communities enriched with active pathways.<br>
 4.CellGO can screen essential genes responsible for pathway activation.<br>
 
-#### **For more information about CellGO, please refer to our preprint version: https://doi.org/10.1101/2023.08.02.551654**
-#### **For interactive web-based CellGO analysis, please login: http://www.cellgo.world**
+**For more information about CellGO, please refer to our preprint version: https://doi.org/10.1101/2023.08.02.551654**
+**For interactive web-based CellGO analysis, please login: http://www.cellgo.world**
 
 ## **Installation and dependencies**
 
