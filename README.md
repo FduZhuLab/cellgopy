@@ -74,7 +74,7 @@ conda install -c conda-forge cellgopy<br>
 ## **The tutorial for the python package cellgopy**
 Please refer to "The tutorial for the modeling phase.py" and "The tutorial for the analysis phase.py"
 
-**The related files involved in tutorials are available at: http://www.cellgo.world**
+**The related files involved in tutorials are available at http://www.cellgo.world**
 
 ## **For any questions please contact us**
 Zhu Lab, Institutes of Brain Science, Fudan University, Shanghai 200032, China<br>
